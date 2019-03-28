@@ -1,0 +1,5 @@
+print("I will now count my chickens")
+print(25+23)
+print(6.0/5.2)
+print(6/4)
+print(12%7)

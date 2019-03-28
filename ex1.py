@@ -1,3 +1,4 @@
-print "hello world";
-print "Hello Again";
-print "text";
+# -*- coding:utf-8 -*-
+print("hello world")
+print (23)
+print('hello again')
