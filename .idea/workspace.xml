@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcd366e7-e002-4c72-9e12-07460d86084c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/bin/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bcd366e7-e002-4c72-9e12-07460d86084c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +219,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2242" y="71" width="1284" height="872" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16421568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
