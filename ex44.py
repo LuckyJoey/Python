@@ -48,3 +48,9 @@ child = Child()
 child.implicit()
 child.override()
 child.altered()
+
+class Test(object):
+	def __init__(self):
+		self.other = Other()
+test = Test()
+test.other.altered()
